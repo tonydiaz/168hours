@@ -1,6 +1,6 @@
 ##Weekly Tracker
 
-Time | Monday | Tuesday | Wednesday | Thursday | Friday 
+Time/Day | Monday | Tuesday | Wednesday | Thursday | Friday 
 --- | --- | --- |--- | --- | ---
 12:00 | | | | | 
 12:30 | | | |
