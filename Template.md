@@ -1,4 +1,4 @@
-##Monday
+##Weekly Tracker
 
 Time | Monday | Tuesday | Wednesday | Thursday | Friday 
 --- | --- | --- |--- | --- | ---
